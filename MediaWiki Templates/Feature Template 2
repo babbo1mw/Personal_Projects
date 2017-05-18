@@ -1,0 +1,84 @@
+<div class="col-md-9 pull-left">
+      <h1>Location Search</h1>
+      <p class="bs">Pellentesque vel egestas diam. Duis pulvinar placerat nisi sit amet sollicitudin. Morbi ullamcorper dui vitae
+      odio mattis luctus. Etiam scelerisque nisi id augue cursus rhoncus. Pellentesque vel egestas diam. Duis pulvinar placerat
+      nisi sit amet sollicitudin. Morbi ullamcorper dui vitae odio mattis luctus. Etiam scelerisque nisi id augue cursus rhoncus.
+      Pellentesque vel egestas diam. Duis pulvinar placerat nisi sit amet sollicitudin. Morbi ullamcorper dui vitae odio mattis
+      luctus. Etiam scelerisque nisi id augue cursus rhoncus.</p>
+
+
+      <h4>Premise by Address</h4>
+      <p class="bs">Pellentesque vel egestas diam. Duis pulvinar placerat nisi sit amet sollicitudin. Morbi ullamcorper dui vitae
+      odio mattis luctus. Etiam scelerisque nisi id augue cursus rhoncus. Pellentesque vel egestas diam. Duis pulvinar placerat
+      nisi sit amet sollicitudin. Morbi ullamcorper dui vitae odio mattis luctus. Etiam scelerisque nisi id augue cursus rhoncus.
+      Pellentesque vel egestas diam. Duis pulvinar placerat nisi sit amet sollicitudin. Morbi ullamcorper dui vitae odio mattis
+      luctus. Etiam scelerisque nisi id augue cursus rhoncus.</p>
+
+
+      <h4>Premise by Meter Number</h4>
+      <p class="bs">Pellentesque vel egestas diam. Duis pulvinar placerat nisi sit amet sollicitudin. Morbi ullamcorper dui vitae
+      odio mattis luctus. Etiam scelerisque nisi id augue cursus rhoncus. Pellentesque vel egestas diam. Duis pulvinar placerat
+      nisi sit amet sollicitudin. Morbi ullamcorper dui vitae odio mattis luctus. Etiam scelerisque nisi id augue cursus rhoncus.
+      Pellentesque vel egestas diam. Duis pulvinar placerat nisi sit amet sollicitudin. Morbi ullamcorper dui vitae odio mattis
+      luctus. Etiam scelerisque nisi id augue cursus rhoncus.</p>
+
+
+      <h4>Premise by Premise Number</h4>
+      <p class="bs">Pellentesque vel egestas diam. Duis pulvinar placerat nisi sit amet sollicitudin. Morbi ullamcorper dui vitae
+      odio mattis luctus. Etiam scelerisque nisi id augue cursus rhoncus. Pellentesque vel egestas diam. Duis pulvinar placerat
+      nisi sit amet sollicitudin. Morbi ullamcorper dui vitae odio mattis luctus. Etiam scelerisque nisi id augue cursus rhoncus.
+      Pellentesque vel egestas diam. Duis pulvinar placerat nisi sit amet sollicitudin. Morbi ullamcorper dui vitae odio mattis
+      luctus. Etiam scelerisque nisi id augue cursus rhoncus.</p>
+
+
+
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   <div class="column clearfix" style="text-align:center;">
+      <div class="col-md-3 pull-right">
+
+        <div class="panel panel-primary-border">
+          <div class="panel-heading">Premise by Address
+          </div>
+          <div class="panel-body">
+            <p class="bs">Want to see more?</p>
+            <div class="btn btn-neutral-light btn-xs">[[See More]]</div>
+          </div>
+        </div>
+
+
+        <div class="panel panel-primary-border">
+          <div class="panel-heading">Premise by Meter Number
+          </div>
+           <div class="panel-body">
+            <p class="bs">Want to see more?</p>
+            <div class="btn btn-neutral-light btn-xs">[[See More]]</div>
+          </div>
+        </div>
+
+        <div class="panel panel-primary-border">
+          <div class="panel-heading">Premise by Premise Number
+          </div>
+            <div class="panel-body">
+            <p class="bs">Want to see more?</p>
+            <div class="btn btn-neutral-light btn-xs">[[See More]]</div>
+          </div>
+        </div>
+
+
+      </div>
+    </div>

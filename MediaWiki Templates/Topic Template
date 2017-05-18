@@ -1,0 +1,140 @@
+
+<div class="col-md-8 pull-left">
+      <h1>Customer Search</h1>
+      <p class="bs">Pellentesque vel egestas diam. Duis pulvinar placerat nisi sit amet sollicitudin. Morbi ullamcorper dui vitae
+      odio mattis luctus. Etiam scelerisque nisi id augue cursus rhoncus. Pellentesque vel egestas diam. Duis pulvinar placerat
+      nisi sit amet sollicitudin. Morbi ullamcorper dui vitae odio mattis luctus. Etiam scelerisque nisi id augue cursus rhoncus.
+      Pellentesque vel egestas diam. Duis pulvinar placerat nisi sit amet sollicitudin. Morbi ullamcorper dui vitae odio mattis
+      luctus. Etiam scelerisque nisi id augue cursus rhoncus.</p>
+
+      <h4>Search Customer by Name (First Name Last Name)</h4>
+      <p class="bs">Pellentesque vel egestas diam. Duis pulvinar placerat nisi sit amet sollicitudin. Morbi ullamcorper dui vitae
+      odio mattis luctus. Etiam scelerisque nisi id augue cursus rhoncus. Pellentesque vel egestas diam. Duis pulvinar placerat
+      nisi sit amet sollicitudin. Morbi ullamcorper dui vitae odio mattis luctus. Etiam scelerisque nisi id augue cursus rhoncus.
+      Pellentesque vel egestas diam. Duis pulvinar placerat nisi sit amet sollicitudin. Morbi ullamcorper dui vitae odio mattis
+      luctus. Etiam scelerisque nisi id augue cursus rhoncus.</p>
+
+      <h4>Search Customer by Name (Organization)</h4>
+      <p class="bs">Pellentesque vel egestas diam. Duis pulvinar placerat nisi sit amet sollicitudin. Morbi ullamcorper dui vitae
+      odio mattis luctus. Etiam scelerisque nisi id augue cursus rhoncus. Pellentesque vel egestas diam. Duis pulvinar placerat
+      nisi sit amet sollicitudin. Morbi ullamcorper dui vitae odio mattis luctus. Etiam scelerisque nisi id augue cursus rhoncus.
+      Pellentesque vel egestas diam. Duis pulvinar placerat nisi sit amet sollicitudin. Morbi ullamcorper dui vitae odio mattis
+      luctus. Etiam scelerisque nisi id augue cursus rhoncus.</p>
+
+      <h4>Search Customer by Business Agreement (Account Number)</h4>
+      <p class="bs">Pellentesque vel egestas diam. Duis pulvinar placerat nisi sit amet sollicitudin. Morbi ullamcorper dui vitae
+      odio mattis luctus. Etiam scelerisque nisi id augue cursus rhoncus. Pellentesque vel egestas diam. Duis pulvinar placerat
+      nisi sit amet sollicitudin. Morbi ullamcorper dui vitae odio mattis luctus. Etiam scelerisque nisi id augue cursus rhoncus.
+      Pellentesque vel egestas diam. Duis pulvinar placerat nisi sit amet sollicitudin. Morbi ullamcorper dui vitae odio mattis
+      luctus. Etiam scelerisque nisi id augue cursus rhoncus.</p>
+
+      <h4>Search Customer by ID (SS, DL, Any ID)</h4>
+      <p class="bs">Pellentesque vel egestas diam. Duis pulvinar placerat nisi sit amet sollicitudin. Morbi ullamcorper dui vitae
+      odio mattis luctus. Etiam scelerisque nisi id augue cursus rhoncus. Pellentesque vel egestas diam. Duis pulvinar placerat
+      nisi sit amet sollicitudin. Morbi ullamcorper dui vitae odio mattis luctus. Etiam scelerisque nisi id augue cursus rhoncus.
+      Pellentesque vel egestas diam. Duis pulvinar placerat nisi sit amet sollicitudin. Morbi ullamcorper dui vitae odio mattis
+      luctus. Etiam scelerisque nisi id augue cursus rhoncus.</p>
+
+      <h4>Search Customer by BP Number</h4>
+      <p class="bs">Pellentesque vel egestas diam. Duis pulvinar placerat nisi sit amet sollicitudin. Morbi ullamcorper dui vitae
+      odio mattis luctus. Etiam scelerisque nisi id augue cursus rhoncus. Pellentesque vel egestas diam. Duis pulvinar placerat
+      nisi sit amet sollicitudin. Morbi ullamcorper dui vitae odio mattis luctus. Etiam scelerisque nisi id augue cursus rhoncus.
+      Pellentesque vel egestas diam. Duis pulvinar placerat nisi sit amet sollicitudin. Morbi ullamcorper dui vitae odio mattis
+      luctus. Etiam scelerisque nisi id augue cursus rhoncus.</p>
+
+      <h4>Search Customer by Contact Number</h4>
+      <p class="bs">Pellentesque vel egestas diam. Duis pulvinar placerat nisi sit amet sollicitudin. Morbi ullamcorper dui vitae
+      odio mattis luctus. Etiam scelerisque nisi id augue cursus rhoncus. Pellentesque vel egestas diam. Duis pulvinar placerat
+      nisi sit amet sollicitudin. Morbi ullamcorper dui vitae odio mattis luctus. Etiam scelerisque nisi id augue cursus rhoncus.
+      Pellentesque vel egestas diam. Duis pulvinar placerat nisi sit amet sollicitudin. Morbi ullamcorper dui vitae odio mattis
+      luctus. Etiam scelerisque nisi id augue cursus rhoncus.</p>
+
+      <h4>Search Customer by Legacy Account Number</h4>
+      <p class="bs">Pellentesque vel egestas diam. Duis pulvinar placerat nisi sit amet sollicitudin. Morbi ullamcorper dui vitae
+      odio mattis luctus. Etiam scelerisque nisi id augue cursus rhoncus. Pellentesque vel egestas diam. Duis pulvinar placerat
+      nisi sit amet sollicitudin. Morbi ullamcorper dui vitae odio mattis luctus. Etiam scelerisque nisi id augue cursus rhoncus.
+      Pellentesque vel egestas diam. Duis pulvinar placerat nisi sit amet sollicitudin. Morbi ullamcorper dui vitae odio mattis
+      luctus. Etiam scelerisque nisi id augue cursus rhoncus.</p>
+
+    </div>
+   <div class="column clearfix">
+      <div class="col-md-4 pull-right">
+        <div class="panel panel-concrete-white-border">
+          <div class="panel-heading">
+            <h6 class="panel-title">Search Customer by Name (First Name Last Name)</h6>
+          </div>
+          <div class="panel-body">
+            <p class="bs">Pellentesque vel egestas diam. Duis pulvinar placerat nisi sit amet sollicitudin. Morbi ullamcorper dui
+            vitae odio mattis luctus. Etiam scelerisque nisi id augue cursus rhoncus.</p>
+            <div class="btn btn-party">[[Read More]]</div>
+          </div>
+        </div>
+
+        <div class="panel panel-concrete-white-border">
+          <div class="panel-heading">
+            <h6 class="panel-title">Search Customer by Name (Organization)</h6>
+          </div>
+          <div class="panel-body">
+            <p class="bs">Pellentesque vel egestas diam. Duis pulvinar placerat nisi sit amet sollicitudin. Morbi ullamcorper dui
+            vitae odio mattis luctus. Etiam scelerisque nisi id augue cursus rhoncus..</p>
+            <div class="btn btn-party">[[Read More]]</div>
+          </div>
+        </div>
+
+        <div class="panel panel-concrete-white-border">
+          <div class="panel-heading">
+            <h6 class="panel-title">Search Customer by Business Agreement (Account Number)</h6>
+          </div>
+          <div class="panel-body">
+            <p class="bs">Pellentesque vel egestas diam. Duis pulvinar placerat nisi sit amet sollicitudin. Morbi ullamcorper dui
+            vitae odio mattis luctus. Etiam scelerisque nisi id augue cursus rhoncus..</p>
+            <div class="btn btn-party">[[Read More]]</div>
+          </div>
+        </div>
+
+        <div class="panel panel-concrete-white-border">
+          <div class="panel-heading">
+            <h6 class="panel-title">Search Customer by ID (SS, DL, Any ID)</h6>
+          </div>
+          <div class="panel-body">
+            <p class="bs">Pellentesque vel egestas diam. Duis pulvinar placerat nisi sit amet sollicitudin. Morbi ullamcorper dui
+            vitae odio mattis luctus. Etiam scelerisque nisi id augue cursus rhoncus..</p>
+            <div class="btn btn-party">[[Read More]]</div>
+          </div>
+        </div>
+
+        <div class="panel panel-concrete-white-border">
+          <div class="panel-heading">
+            <h6 class="panel-title">Search Customer by BP Number</h6>
+          </div>
+          <div class="panel-body">
+            <p class="bs">Pellentesque vel egestas diam. Duis pulvinar placerat nisi sit amet sollicitudin. Morbi ullamcorper dui
+            vitae odio mattis luctus. Etiam scelerisque nisi id augue cursus rhoncus..</p>
+            <div class="btn btn-party">[[Read More]]</div>
+          </div>
+        </div>
+
+        <div class="panel panel-concrete-white-border">
+          <div class="panel-heading">
+            <h6 class="panel-title">Search Customer by Contact Number</h6>
+          </div>
+          <div class="panel-body">
+            <p class="bs">Pellentesque vel egestas diam. Duis pulvinar placerat nisi sit amet sollicitudin. Morbi ullamcorper dui
+            vitae odio mattis luctus. Etiam scelerisque nisi id augue cursus rhoncus..</p>
+            <div class="btn btn-party">[[Read More]]</div>
+          </div>
+        </div>
+
+        <div class="panel panel-concrete-white-border">
+          <div class="panel-heading">
+            <h6 class="panel-title">Search Customer by Legacy Account Number</h6>
+          </div>
+          <div class="panel-body">
+            <p class="bs">Pellentesque vel egestas diam. Duis pulvinar placerat nisi sit amet sollicitudin. Morbi ullamcorper dui
+            vitae odio mattis luctus. Etiam scelerisque nisi id augue cursus rhoncus..</p>
+            <div class="btn btn-party">[[Read More]]</div>
+          </div>
+        </div>
+
+      </div>
+    </div>

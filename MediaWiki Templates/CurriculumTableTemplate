@@ -1,0 +1,71 @@
+
+
+{|
+    <table class="wikitable" style="color:black; background-color:white;" cellpadding="10">
+
+      <tr>
+        <th colspan="2" style="background-color:#359ec5;color:white;font-size:30px;">Curriculum</th>
+      </tr>
+
+      <tr style="background-color: #dddddd">
+        <td>Course</td>
+        <td>{{TblData{{SUBPAGENAME}}Course}}</td>
+      </tr>
+
+      <tr>
+        <td>Training Type</td>
+        <td>{{TblData{{SUBPAGENAME}}TT}}</td>
+      </tr>
+
+      <tr style="background-color: #dddddd">
+        <td>Estimated Length of Time</td>
+        <td>{{TblData{{SUBPAGENAME}}ELT}}</td>
+      </tr>
+
+      <tr>
+        <td>Prerequisites</td>
+        <td>{{TblData{{SUBPAGENAME}}Prereq}}</td>
+      </tr>
+
+      <tr style="background-color: #dddddd">
+        <td>Description</td>
+        <td>{{TblData{{SUBPAGENAME}}Desc}}</td>
+      </tr>
+
+      <tr>
+        <td>Purpose/Goal</td>
+        <td>{{TblData{{SUBPAGENAME}}Purpose}}</td>
+      </tr>
+
+      <tr style="background-color: #dddddd">
+        <td>Targeted Audience</td>
+        <td>{{TblData{{SUBPAGENAME}}Audience}}</td>
+      </tr>
+
+      <tr>
+        <td>Estimated # to be Trained</td>
+        <td>{{TblData{{SUBPAGENAME}}#trained}}</td>
+      </tr>
+
+      <tr style="background-color: #dddddd">
+        <td>Logistics Requirements</td>
+        <td>{{TblData{{SUBPAGENAME}}LogReq}}</td>
+      </tr>
+
+      <tr>
+        <td>Training Data Requirements</td>
+        <td>{{TblData{{SUBPAGENAME}}DataReq}}</td>
+      </tr>
+
+       <tr style="background-color: #dddddd">
+         <td>Recommended Class Size</td>
+         <td>{{TblData{{SUBPAGENAME}}ClassSize}}</td>
+       </tr>
+
+      <tr>
+        <td>Total Classes Required</td>
+        <td>{{TblData{{SUBPAGENAME}}CLassReq}}</td>
+      </tr>
+
+    </table>
+|}
