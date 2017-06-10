@@ -1,7 +1,7 @@
 /* Universal Styles */
 
 html {
-  font-family: "Roboto", sans-serif;
+  font-family: "Roboto-regular", sans-serif;
   font-size: 16px;
   color: #4A4A4A;
   line-height: 1.6;
@@ -307,15 +307,19 @@ header .mobile {
 
 #filters-section .content h2 {
   font-size: 2.25rem;
-  font-weight: bold;
+  font-family: "Roboto-Bold";
   color: white;
+  opacity: 100%;
 }
 
 #filters-section .content h3 {
   font-size: 1rem;
   line-height: 1.4;
-  font-weight: 300;
+  font-family: "Roboto-light";
+  font-weight: lighter;
   color: white;
+  display: inline-block;
+  width: 500px;
 }
 
 #filters-section .images-container {
@@ -360,22 +364,26 @@ display: flex;
 
 #quotes-section {
   background-color: #f3f3f3;
+  padding: 80px 0;
+  display: flex;
+  justify-content: center;
 }
 
-#quotes-section content {
-  padding: 5rem 0;
+#quotes-section .content {
+  display: inline-block;
+  justify-content: center;
 }
 
-#quotes-section quote {
+#quotes-section .quote {
   padding-right: 1.875rem;
-  font-family: "Palatino", serif;
-  font-size: 1.875rem;
+  font-family: "Palatino-Italic", serif;
+  font-size: 30px;
   line-height: 1.1;
   font-style: italic;
   color: #4a4a4a;
 }
 
-#quotes-section quote-citation {
+#quotes-section .quote-citation {
   height: 1.875rem;
 }
 
@@ -389,7 +397,7 @@ display: flex;
     line-height: 1.4;
   }
 
-  #quotes-section quote-citation {
+  #quotes-section .quote-citation {
     display: block;
     padding-top: 1rem;
     margin: auto;
