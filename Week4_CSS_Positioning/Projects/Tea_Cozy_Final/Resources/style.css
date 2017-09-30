@@ -1,5 +1,3 @@
-
-
 body {
   font-family: Helvetica;
   font-size: 22px;
@@ -25,7 +23,7 @@ header {
   position: fixed;
   z-index: 5;
   width: 100%;
-  top: 0px;
+  top: 0;
   background-color: black;
 }
 
@@ -46,7 +44,6 @@ nav span a {
   text-align: right;
   display: inline-block;
   padding: 10px;
-
 }
 
 .container {
@@ -56,11 +53,12 @@ nav span a {
 }
 
 .content {
-    margin: auto;
-    margin-top: 0px;
-    padding-top: 70px;
-    width: 1200px;
+  margin: auto;
+  margin-top: 0;
+  padding-top: 70px;
+  width: 1200px;
 }
+
 /*mission section*/
 #mission {
   height: 700px;
@@ -68,16 +66,14 @@ nav span a {
   width: 1200px;
   padding-top: 70px;
   margin: auto;
-  margin-top: 0px;
-
+  margin-top: 0;
 }
 
 #mission .text{
   background-color: black;
   margin: auto;
   width: 100%;
-    padding: 0px
-
+  padding: 0;
 }
 
 /*featured tea section*/
@@ -89,13 +85,16 @@ nav span a {
   margin-bottom: 100px;
   padding-top: 70px;
 }
+
 .pic {
-  padding: 10px;;
+  padding: 10px;
 }
+
 .pic span {
   padding-top: 10px;
   display: block;
 }
+
 .pic img {
   height: 200px;
   width: 300px;
